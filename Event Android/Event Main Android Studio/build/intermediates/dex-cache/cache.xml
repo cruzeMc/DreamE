@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_713360d699578da4290eb18ac50cbcbab6b4f439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_7866fc363d49c8e0188c30064dae752912bb4c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.5.0_c4519c52d218475b9ceb256d362216e76c5c0d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.5.0_a2cd88684e3aca3c5881cf5d6682256d2303ed25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_fe3ab356a70aa88f5824d533cc7dcb7c33710849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_9cfa7f18f8ff64aead1d25689b6045d419f19fab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.0.0_3e46bed238eb6bd5f19f16f7eabcf61f3ec00de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_5fb8a47fb20a55e8ff5ce1cc1a131b5b7fb2aa76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.5.0_28de79967ed099eb939dc03b10258316878b29d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_e449c59d05f02e1e99d9eac408b0afc7421c1fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_449e41ad3e6815881aa19e0adcb9153cb7eb2925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.5.0_4d09792c788b69d8ccbbce523d36a430525abd5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.5.0_1817937a1d9acd8aa4ce02180a2043581cabd622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.5.0_21f18b990289f8f12069f76c7c35b1b1bf88a003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.5.0_51639aeeffcab405979a6364891351cebd1cf608\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.5.0_1f229ef5e7b6805d703c711c1ba109029d4cae87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_a39a0c14b9c90f76e839d515aaff6a9c430ce322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8f475c215ee95ce4d14f5815b7e1979edd0b8b15">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1c54c37b688acc23849235b3d62924a3aaf608c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a79d7c6f6eab567633870e1a243bf012b03ae4ad">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d154ae9b01f348fc83c63477a03a27908cc42d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.5.0_9591ff99ca7c864db4f9319a06b305c854b0829e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.5.0_8b5f8cd34800d213b6dce2b810f2197ce9f1a514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_b76e49a338efb9f5239638a3ddaba3e6c6143288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_9640aef96cdbc2d2cba028a287709788e6b1cd5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_7de37972e5892dc3cb4105463e05c65da3bbb8fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_f4447eb587baee0136b8aaa93d19bcfea23cd8ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.5.0_59c295e5a6e3b5a4e3cfd05d91295a3349a5e98f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.5.0_0db2daff9cc828627fcd32a6fdcaf0da37746b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.5.0_2fd6955ed2e8f395abb1f7784b7f63b121922d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.5.0_f9cb9c608010e3b034b4080943f9eb9eba214476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.5.0_6cbc4f6bcc846531d9d4f8f6b7841b8d4130783b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.5.0_c0b52dd2105fb230ffb6ec20a03c057fc5392bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.5.0_860919e9958416336c7064e7abb632e534872ea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_0f588644e34a00102f199263bfe03d4e771fc164\classes.dex" />
+    </item>
+
+</items>
