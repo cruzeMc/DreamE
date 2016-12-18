@@ -33,4 +33,7 @@
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="email">Email</string>
+    <string name="success_login">Login was successful</string>
+    <string name="fail_login">Email or password is incorrect</string>
+    <string name="title_activity_register">RegisterActivity</string>
 </resources>

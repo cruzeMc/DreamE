@@ -56,7 +56,7 @@ public class LoginActivity extends CustomActivity {
                 if (response.isSuccessful() && response.body() != null  ) {
                     if (response.body().getSuccess()) {
                         Context context = getApplicationContext();
-                        CharSequence text = "Login was successful";
+                        CharSequence text = getString(R.string.success_login);
                         int duration = Toast.LENGTH_LONG;
                         Toast toast = Toast.makeText(context, text, duration);
                         toast.show();
@@ -66,10 +66,9 @@ public class LoginActivity extends CustomActivity {
                         i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                         startActivity(i);
                     } else {
-                        VerifyResponse bool = response.body();
-                        Log.d("Login", ""+bool.getSuccess());
+
                         Context context = getApplicationContext();
-                        CharSequence text = "Email or password is incorrect";
+                        CharSequence text = getString(R.string.fail_login);
                         int duration = Toast.LENGTH_LONG;
                         Toast toast = Toast.makeText(context, text, duration);
                         toast.show();

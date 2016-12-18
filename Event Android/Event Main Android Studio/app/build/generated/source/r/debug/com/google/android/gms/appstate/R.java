@@ -191,8 +191,8 @@ public final class R {
 		public static final int create_calendar_message = 0x7f060047;
 		public static final int create_calendar_title = 0x7f060048;
 		public static final int decline = 0x7f06004a;
-		public static final int store_picture_message = 0x7f060060;
-		public static final int store_picture_title = 0x7f060061;
+		public static final int store_picture_message = 0x7f060061;
+		public static final int store_picture_title = 0x7f060062;
 		public static final int wallet_buy_button_place_holder = 0x7f06003a;
 	}
 	public static final class style {

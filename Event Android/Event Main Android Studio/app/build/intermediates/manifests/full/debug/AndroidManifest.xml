@@ -77,6 +77,9 @@
         <activity
             android:name="com.events.LoginActivity"
             android:label="@string/title_activity_login" />
+        <activity
+            android:name="com.events.RegisterActivity"
+            android:label="@string/title_activity_register" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:2:1-78:12
+ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:2:1-81:12
 	package
 		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:3:5-25
 		INJECTED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
@@ -105,7 +105,7 @@ ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Mai
 	android:name
 		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:31:30-85
 application
-ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:33:5-76:19
+ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:33:5-79:19
 MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
@@ -206,11 +206,17 @@ ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Mai
 	android:name
 		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:71:13-45
 activity#com.events.LoginActivity
-ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:73:9-75:69
+ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:73:9-75:60
 	android:label
 		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:75:13-57
 	android:name
 		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:74:13-42
+activity#com.events.RegisterActivity
+ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:76:9-78:72
+	android:label
+		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:78:13-60
+	android:name
+		ADDED from C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:77:13-45
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\Cruze\Documents\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
 	android:configChanges
