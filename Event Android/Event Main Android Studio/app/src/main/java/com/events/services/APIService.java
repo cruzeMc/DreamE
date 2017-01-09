@@ -2,6 +2,7 @@ package com.events.services;
 
 import com.events.authentication.VerifyResponse;
 import com.events.model.Category;
+import com.events.model.CategoryImage;
 import com.events.model.Login;
 
 import java.util.List;
@@ -17,8 +18,11 @@ import retrofit2.http.POST;
 
 public interface APIService {
     @GET("/api/landing")
-    Call<List<Category>> getLandingPage();
+    Call<List<Category>> getCategories();
 
     @POST("/api/login")
     Call<VerifyResponse> postLogin(@Body Login login);
+
+    @GET("/api/landing/image/")
+    Call<CategoryImage> getImage(@Body CategoryImage categoryImage);
 }

@@ -4,7 +4,7 @@
     android:layout_height="match_parent" >
 
     <ImageView
-        android:id="@+id/img"
+        android:id="@+id/categoryImageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:scaleType="fitXY"
@@ -23,7 +23,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/img"
+        android:layout_alignBottom="@+id/categoryImageView"
         android:background="@drawable/semi_trans_bg"
         android:gravity="center_vertical"
         android:orientation="vertical"

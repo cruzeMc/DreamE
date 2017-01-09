@@ -340,7 +340,7 @@ public class CalendarView extends CustomFragment
 			lbl = (TextView) convertView.findViewById(R.id.lbl4);
 			lbl.setText(d.getLocation());
 
-			ImageView img = (ImageView) convertView.findViewById(R.id.img);
+			ImageView img = (ImageView) convertView.findViewById(R.id.categoryImageView);
 			img.setImageResource(d.getImage());
 
 			return convertView;

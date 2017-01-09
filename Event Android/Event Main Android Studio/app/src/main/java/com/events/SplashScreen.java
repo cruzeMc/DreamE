@@ -62,7 +62,6 @@ public class SplashScreen extends Activity {
 	 * activity and finish the Splash.
 	 */
 	private synchronized void doFinish() {
-
 		if (isRunning)	{
 			isRunning = false;
 			Intent i = new Intent(SplashScreen.this, LoginActivity.class);

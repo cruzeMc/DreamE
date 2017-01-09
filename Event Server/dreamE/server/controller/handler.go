@@ -11,7 +11,6 @@ import (
 	//"log"
 	"net/http"
 	"strings"
-	"log"
 )
 
 const (
@@ -87,12 +86,9 @@ func LoginRoute(response http.ResponseWriter, request *http.Request) {
 
 		var boolean = datastore.NewBoolean(result)
 		if result == true {
-			log.Println(result, login)
 			json.NewEncoder(response).Encode(boolean)
 		} else {
-			log.Println(result, login)
 			json.NewEncoder(response).Encode(boolean)
 		}
-
 	}
 }

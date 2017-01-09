@@ -158,7 +158,7 @@ public class Programs extends CustomFragment
 			lbl = (TextView) convertView.findViewById(R.id.lbl3);
 			lbl.setText(d.getDesc());
 
-			ImageView img = (ImageView) convertView.findViewById(R.id.img);
+			ImageView img = (ImageView) convertView.findViewById(R.id.categoryImageView);
 			img.setImageResource(d.getImage1());
 
 			return convertView;

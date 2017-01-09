@@ -8,6 +8,7 @@ import (
 	_ "github.com/lib/pq"
 	//"net/http"
 	//"encoding/json"
+	//"log"
 )
 
 const (

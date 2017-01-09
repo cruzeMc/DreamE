@@ -10,19 +10,19 @@ public class Category {
     @SerializedName("category_name")
     private String categoryName;
     private String image;
-    private Integer id;
+    private int id;
 
-    public Category(Integer id, String categoryName, String image) {
+    public Category(int id, String categoryName, String image) {
         this.id = id;
         this.categoryName = categoryName;
         this.image = image;
     }
 
-    public Integer getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(int id) {
         this.id = id;
     }
 

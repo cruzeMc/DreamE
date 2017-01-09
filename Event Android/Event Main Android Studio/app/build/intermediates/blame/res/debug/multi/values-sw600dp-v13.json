@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
+                    "endColumn": 68,
+                    "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 69,
-                        "endOffset": 345
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 69,
-                    "endOffset": 190
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 350,
-                        "endColumn": 69,
-                        "endOffset": 415
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 195,
-                    "endColumn": 58,
-                    "endOffset": 249
+                    "startOffset": 193,
+                    "endColumn": 69,
+                    "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 645,
-                        "endColumn": 58,
-                        "endOffset": 699
+                        "startOffset": 193,
+                        "endColumn": 69,
+                        "endOffset": 258
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 254,
-                    "endColumn": 70,
-                    "endOffset": 320
+                    "startOffset": 263,
+                    "endColumn": 73,
+                    "endOffset": 332
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 929,
-                        "endColumn": 70,
-                        "endOffset": 995
+                        "startOffset": 263,
+                        "endColumn": 73,
+                        "endOffset": 332
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 325,
-                    "endColumn": 67,
-                    "endOffset": 388
+                    "startOffset": 337,
+                    "endColumn": 75,
+                    "endOffset": 408
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1000,
-                        "endColumn": 67,
-                        "endOffset": 1063
+                        "startOffset": 337,
+                        "endColumn": 75,
+                        "endOffset": 408
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 393,
-                    "endColumn": 72,
-                    "endOffset": 461
+                    "startOffset": 413,
+                    "endColumn": 58,
+                    "endOffset": 467
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 72,
-                        "endOffset": 350
+                        "startOffset": 413,
+                        "endColumn": 58,
+                        "endOffset": 467
                     }
                 }
             },
@@ -120,18 +120,56 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 466,
-                    "endColumn": 54,
-                    "endOffset": 516
+                    "startOffset": 472,
+                    "endColumn": 70,
+                    "endOffset": 538
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-sw600dp-v13\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1068,
-                        "endColumn": 54,
-                        "endOffset": 1118
+                        "startOffset": 472,
+                        "endColumn": 70,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 67,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 67,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 72,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 72,
+                        "endOffset": 350
                     }
                 }
             }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
+        "outputFile": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 104,
-                        "endOffset": 380
+                        "endOffset": 155
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 385,
+                        "startOffset": 160,
                         "endColumn": 107,
-                        "endOffset": 488
+                        "endOffset": 263
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 268,
                         "endColumn": 122,
-                        "endOffset": 611
+                        "endOffset": 386
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 540
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 616,
+                        "startOffset": 391,
                         "endColumn": 103,
-                        "endOffset": 715
+                        "endOffset": 490
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 648
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 720,
+                        "startOffset": 495,
                         "endColumn": 107,
-                        "endOffset": 823
+                        "endOffset": 598
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 739
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 828,
+                        "startOffset": 603,
                         "endColumn": 90,
-                        "endOffset": 914
+                        "endOffset": 689
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 846
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 919,
+                        "startOffset": 694,
                         "endColumn": 106,
-                        "endOffset": 1021
+                        "endOffset": 796
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 973
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1026,
+                        "startOffset": 801,
                         "endColumn": 126,
-                        "endOffset": 1148
+                        "endOffset": 923
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 978,
-                    "endColumn": 109,
-                    "endOffset": 1083
+                    "endColumn": 93,
+                    "endOffset": 1067
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1153,
-                        "endColumn": 109,
-                        "endOffset": 1258
+                        "startOffset": 928,
+                        "endColumn": 93,
+                        "endOffset": 1017
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1088,
-                    "endColumn": 115,
-                    "endOffset": 1199
+                    "startOffset": 1072,
+                    "endColumn": 89,
+                    "endOffset": 1157
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1263,
-                        "endColumn": 115,
-                        "endOffset": 1374
+                        "startOffset": 1022,
+                        "endColumn": 89,
+                        "endOffset": 1107
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1204,
-                    "endColumn": 102,
-                    "endOffset": 1302
+                    "startOffset": 1162,
+                    "endColumn": 87,
+                    "endOffset": 1245
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1379,
-                        "endColumn": 102,
-                        "endOffset": 1477
+                        "startOffset": 1112,
+                        "endColumn": 87,
+                        "endOffset": 1195
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1307,
-                    "endColumn": 114,
-                    "endOffset": 1417
+                    "startOffset": 1250,
+                    "endColumn": 109,
+                    "endOffset": 1355
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1482,
-                        "endColumn": 114,
-                        "endOffset": 1592
+                        "startOffset": 1200,
+                        "endColumn": 109,
+                        "endOffset": 1305
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1422,
-                    "endColumn": 101,
-                    "endOffset": 1519
+                    "startOffset": 1360,
+                    "endColumn": 115,
+                    "endOffset": 1471
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1597,
-                        "endColumn": 101,
-                        "endOffset": 1694
+                        "startOffset": 1310,
+                        "endColumn": 115,
+                        "endOffset": 1421
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1524,
-                    "endColumn": 114,
-                    "endOffset": 1634
+                    "startOffset": 1476,
+                    "endColumn": 102,
+                    "endOffset": 1574
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1699,
-                        "endColumn": 114,
-                        "endOffset": 1809
+                        "startOffset": 1426,
+                        "endColumn": 102,
+                        "endOffset": 1524
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1639,
-                    "endColumn": 130,
-                    "endOffset": 1765
+                    "startOffset": 1579,
+                    "endColumn": 114,
+                    "endOffset": 1689
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1814,
-                        "endColumn": 130,
-                        "endOffset": 1940
+                        "startOffset": 1529,
+                        "endColumn": 114,
+                        "endOffset": 1639
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1770,
-                    "endColumn": 111,
-                    "endOffset": 1877
+                    "startOffset": 1694,
+                    "endColumn": 101,
+                    "endOffset": 1791
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1945,
-                        "endColumn": 111,
-                        "endOffset": 2052
+                        "startOffset": 1644,
+                        "endColumn": 101,
+                        "endOffset": 1741
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1882,
-                    "endColumn": 191,
-                    "endOffset": 2069
+                    "startOffset": 1796,
+                    "endColumn": 114,
+                    "endOffset": 1906
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 482,
-                        "endColumn": 195,
-                        "endOffset": 673
+                        "startOffset": 1746,
+                        "endColumn": 114,
+                        "endOffset": 1856
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 2074,
-                    "endColumn": 189,
-                    "endOffset": 2259
+                    "startOffset": 1911,
+                    "endColumn": 130,
+                    "endOffset": 2037
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2665,
-                        "endColumn": 193,
-                        "endOffset": 2854
+                        "startOffset": 1861,
+                        "endColumn": 130,
+                        "endOffset": 1987
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2264,
-                    "endColumn": 124,
-                    "endOffset": 2384
+                    "startOffset": 2042,
+                    "endColumn": 111,
+                    "endOffset": 2149
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2341,
-                        "endColumn": 124,
-                        "endOffset": 2461
+                        "startOffset": 1992,
+                        "endColumn": 111,
+                        "endOffset": 2099
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2389,
+                    "startOffset": 2154,
                     "endColumn": 260,
-                    "endOffset": 2645
+                    "endOffset": 2410
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 4745,
+                        "startOffset": 3513,
                         "endColumn": 264,
-                        "endOffset": 5005
+                        "endOffset": 3773
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2650,
+                    "startOffset": 2415,
                     "endColumn": 136,
-                    "endOffset": 2782
+                    "endOffset": 2547
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 2065,
+                        "startOffset": 1335,
                         "endColumn": 136,
-                        "endOffset": 2197
+                        "endOffset": 1467
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2787,
+                    "startOffset": 2552,
                     "endColumn": 189,
-                    "endOffset": 2972
+                    "endOffset": 2737
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1871,
+                        "startOffset": 1141,
                         "endColumn": 193,
-                        "endOffset": 2060
+                        "endOffset": 1330
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2977,
-                    "endColumn": 134,
-                    "endOffset": 3107
+                    "startOffset": 2742,
+                    "endColumn": 135,
+                    "endOffset": 2873
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1736,
-                        "endColumn": 134,
-                        "endOffset": 1866
+                        "startOffset": 1005,
+                        "endColumn": 135,
+                        "endOffset": 1136
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3112,
-                    "endColumn": 175,
-                    "endOffset": 3283
+                    "startOffset": 2878,
+                    "endColumn": 138,
+                    "endOffset": 3012
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 843,
-                        "endColumn": 179,
-                        "endOffset": 1018
+                        "startOffset": 866,
+                        "endColumn": 138,
+                        "endOffset": 1000
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 3288,
-                    "endColumn": 138,
-                    "endOffset": 3422
+                    "startOffset": 3017,
+                    "endColumn": 203,
+                    "endOffset": 3216
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 1597,
-                        "endColumn": 138,
-                        "endOffset": 1731
+                        "startOffset": 443,
+                        "endColumn": 207,
+                        "endOffset": 646
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3427,
-                    "endColumn": 211,
-                    "endOffset": 3634
+                    "startOffset": 3221,
+                    "endColumn": 210,
+                    "endOffset": 3427
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1159,
-                        "endColumn": 215,
-                        "endOffset": 1370
+                        "startOffset": 651,
+                        "endColumn": 214,
+                        "endOffset": 861
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3639,
-                    "endColumn": 217,
-                    "endOffset": 3852
+                    "startOffset": 3432,
+                    "endColumn": 137,
+                    "endOffset": 3565
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1375,
-                        "endColumn": 221,
-                        "endOffset": 1592
+                        "startOffset": 305,
+                        "endColumn": 137,
+                        "endOffset": 438
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3857,
-                    "endColumn": 135,
-                    "endOffset": 3988
+                    "startOffset": 3570,
+                    "endColumn": 177,
+                    "endOffset": 3743
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1023,
-                        "endColumn": 135,
-                        "endOffset": 1154
+                        "startOffset": 2743,
+                        "endColumn": 177,
+                        "endOffset": 2916
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3993,
-                    "endColumn": 172,
-                    "endOffset": 4161
+                    "startOffset": 3748,
+                    "endColumn": 116,
+                    "endOffset": 3860
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 3617,
-                        "endColumn": 172,
-                        "endOffset": 3785
+                        "startOffset": 2626,
+                        "endColumn": 116,
+                        "endOffset": 2738
                     }
                 }
             },
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 4166,
-                    "endColumn": 119,
-                    "endOffset": 4281
+                    "startOffset": 3865,
+                    "endColumn": 157,
+                    "endOffset": 4018
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 3497,
-                        "endColumn": 119,
-                        "endOffset": 3612
+                        "startOffset": 2468,
+                        "endColumn": 157,
+                        "endOffset": 2621
                     }
                 }
             },
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 4286,
-                    "endColumn": 164,
-                    "endOffset": 4446
+                    "startOffset": 4023,
+                    "endColumn": 120,
+                    "endOffset": 4139
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 678,
-                        "endColumn": 164,
-                        "endOffset": 838
+                        "startOffset": 2347,
+                        "endColumn": 120,
+                        "endOffset": 2463
                     }
                 }
             },
@@ -595,69 +595,12 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4451,
-                    "endColumn": 164,
-                    "endOffset": 4611
-                },
-                "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3332,
-                        "endColumn": 164,
-                        "endOffset": 3492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4616,
-                    "endColumn": 120,
-                    "endOffset": 4732
-                },
-                "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3211,
-                        "endColumn": 120,
-                        "endOffset": 3327
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4737,
-                    "endColumn": 176,
-                    "endOffset": 4909
-                },
-                "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 305,
-                        "endColumn": 176,
-                        "endOffset": 477
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 4914,
+                    "startOffset": 4144,
                     "endColumn": 134,
-                    "endOffset": 5044
+                    "endOffset": 4274
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -669,20 +612,77 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 5049,
-                    "endColumn": 175,
-                    "endOffset": 5220
+                    "startOffset": 4279,
+                    "endColumn": 156,
+                    "endOffset": 4431
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 5134,
-                        "endColumn": 175,
-                        "endOffset": 5305
+                        "startOffset": 4209,
+                        "endColumn": 156,
+                        "endOffset": 4361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4436,
+                    "endColumn": 127,
+                    "endOffset": 4559
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4081,
+                        "endColumn": 127,
+                        "endOffset": 4204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4564,
+                    "endColumn": 178,
+                    "endOffset": 4738
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3902,
+                        "endColumn": 178,
+                        "endOffset": 4076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4743,
+                    "endColumn": 123,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3778,
+                        "endColumn": 123,
+                        "endOffset": 3897
                     }
                 }
             },
@@ -690,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 5225,
-                    "endColumn": 123,
-                    "endOffset": 5344
+                    "startOffset": 4867,
+                    "endColumn": 245,
+                    "endOffset": 5108
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\f64516a3f99e8889aaf25cab10e66cd34848e298\\output\\res\\values-ne-rNP\\common_strings.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 5010,
-                        "endColumn": 123,
-                        "endOffset": 5129
+                        "startOffset": 170,
+                        "endColumn": 249,
+                        "endOffset": 415
                     }
                 }
             },
@@ -709,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5349,
-                    "endColumn": 133,
-                    "endOffset": 5478
+                    "startOffset": 5113,
+                    "endColumn": 249,
+                    "endOffset": 5358
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 3790,
-                        "endColumn": 133,
-                        "endOffset": 3919
+                        "startOffset": 3044,
+                        "endColumn": 253,
+                        "endOffset": 3293
                     }
                 }
             },
@@ -728,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5483,
-                    "endColumn": 257,
-                    "endOffset": 5736
+                    "startOffset": 5363,
+                    "endColumn": 122,
+                    "endOffset": 5481
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 4048,
-                        "endColumn": 261,
-                        "endOffset": 4305
+                        "startOffset": 2921,
+                        "endColumn": 122,
+                        "endOffset": 3039
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5741,
-                    "endColumn": 123,
-                    "endOffset": 5860
+                    "startOffset": 5486,
+                    "endColumn": 119,
+                    "endOffset": 5601
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3924,
-                        "endColumn": 123,
-                        "endOffset": 4043
+                        "startOffset": 3298,
+                        "endColumn": 119,
+                        "endOffset": 3413
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5865,
-                    "endColumn": 119,
-                    "endOffset": 5980
+                    "startOffset": 5606,
+                    "endColumn": 195,
+                    "endOffset": 5797
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 4310,
-                        "endColumn": 119,
-                        "endOffset": 4425
+                        "startOffset": 1611,
+                        "endColumn": 199,
+                        "endOffset": 1806
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5985,
-                    "endColumn": 194,
-                    "endOffset": 6175
+                    "startOffset": 5802,
+                    "endColumn": 138,
+                    "endOffset": 5936
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 2466,
-                        "endColumn": 198,
-                        "endOffset": 2660
+                        "startOffset": 1472,
+                        "endColumn": 138,
+                        "endOffset": 1606
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 6180,
-                    "endColumn": 138,
-                    "endOffset": 6314
+                    "startOffset": 5941,
+                    "endColumn": 206,
+                    "endOffset": 6143
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2202,
-                        "endColumn": 138,
-                        "endOffset": 2336
+                        "startOffset": 2136,
+                        "endColumn": 210,
+                        "endOffset": 2342
                     }
                 }
             },
@@ -823,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 6319,
-                    "endColumn": 205,
-                    "endOffset": 6520
+                    "startOffset": 6148,
+                    "endColumn": 142,
+                    "endOffset": 6286
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 3001,
-                        "endColumn": 209,
-                        "endOffset": 3206
+                        "startOffset": 1993,
+                        "endColumn": 142,
+                        "endOffset": 2131
                     }
                 }
             },
@@ -842,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6525,
-                    "endColumn": 141,
-                    "endOffset": 6662
+                    "startOffset": 6291,
+                    "endColumn": 181,
+                    "endOffset": 6468
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 2859,
-                        "endColumn": 141,
-                        "endOffset": 2996
+                        "startOffset": 1811,
+                        "endColumn": 181,
+                        "endOffset": 1988
                     }
                 }
             },
@@ -861,18 +861,18 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6667,
+                    "startOffset": 6473,
                     "endColumn": 94,
-                    "endOffset": 6757
+                    "endOffset": 6563
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 4650,
+                        "startOffset": 3418,
                         "endColumn": 94,
-                        "endOffset": 4740
+                        "endOffset": 3508
                     }
                 }
             },
@@ -880,18 +880,18 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 6762,
+                    "startOffset": 6568,
                     "endColumn": 101,
-                    "endOffset": 6859
+                    "endOffset": 6665
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 4430,
+                        "startOffset": 4366,
                         "endColumn": 101,
-                        "endOffset": 4527
+                        "endOffset": 4463
                     }
                 }
             },
@@ -899,18 +899,18 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 6864,
-                    "endColumn": 117,
-                    "endOffset": 6977
+                    "startOffset": 6670,
+                    "endColumn": 121,
+                    "endOffset": 6787
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\values-ne-rNP\\common_strings.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\values-ne-rNP\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4532,
-                        "endColumn": 117,
-                        "endOffset": 4645
+                        "startOffset": 4468,
+                        "endColumn": 121,
+                        "endOffset": 4585
                     }
                 }
             },
@@ -918,12 +918,12 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 6982,
+                    "startOffset": 6792,
                     "endColumn": 105,
-                    "endOffset": 7083
+                    "endOffset": 6893
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -937,12 +937,12 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 7088,
+                    "startOffset": 6898,
                     "endColumn": 121,
-                    "endOffset": 7205
+                    "endOffset": 7015
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -956,12 +956,12 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 7210,
+                    "startOffset": 7020,
                     "endColumn": 110,
-                    "endOffset": 7316
+                    "endOffset": 7126
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -975,12 +975,12 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 7321,
+                    "startOffset": 7131,
                     "endColumn": 112,
-                    "endOffset": 7429
+                    "endOffset": 7239
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -994,18 +994,18 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 7434,
-                    "endColumn": 100,
-                    "endOffset": 7530
+                    "startOffset": 7244,
+                    "endColumn": 120,
+                    "endOffset": 7360
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
                         "startOffset": 734,
-                        "endColumn": 100,
-                        "endOffset": 830
+                        "endColumn": 120,
+                        "endOffset": 850
                     }
                 }
             },
@@ -1013,18 +1013,18 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 7535,
-                    "endColumn": 99,
-                    "endOffset": 7630
+                    "startOffset": 7365,
+                    "endColumn": 100,
+                    "endOffset": 7461
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 835,
-                        "endColumn": 99,
-                        "endOffset": 930
+                        "startOffset": 855,
+                        "endColumn": 100,
+                        "endOffset": 951
                     }
                 }
             },
@@ -1032,18 +1032,18 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 7635,
-                    "endColumn": 115,
-                    "endOffset": 7746
+                    "startOffset": 7466,
+                    "endColumn": 99,
+                    "endOffset": 7561
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 935,
-                        "endColumn": 115,
-                        "endOffset": 1046
+                        "startOffset": 956,
+                        "endColumn": 99,
+                        "endOffset": 1051
                     }
                 }
             },
@@ -1051,18 +1051,18 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 7751,
-                    "endColumn": 108,
-                    "endOffset": 7855
+                    "startOffset": 7566,
+                    "endColumn": 115,
+                    "endOffset": 7677
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1051,
-                        "endColumn": 108,
-                        "endOffset": 1155
+                        "startOffset": 1056,
+                        "endColumn": 115,
+                        "endOffset": 1167
                     }
                 }
             },
@@ -1070,18 +1070,18 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 7860,
-                    "endColumn": 86,
-                    "endOffset": 7942
+                    "startOffset": 7682,
+                    "endColumn": 108,
+                    "endOffset": 7786
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1160,
-                        "endColumn": 86,
-                        "endOffset": 1242
+                        "startOffset": 1172,
+                        "endColumn": 108,
+                        "endOffset": 1276
                     }
                 }
             },
@@ -1089,18 +1089,113 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 7947,
-                    "endColumn": 94,
-                    "endOffset": 8037
+                    "startOffset": 7791,
+                    "endColumn": 86,
+                    "endOffset": 7873
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.0.0\\res\\values-ne-rNP\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1247,
+                        "startOffset": 1281,
+                        "endColumn": 86,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7878,
+                    "endColumn": 94,
+                    "endOffset": 7968
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1368,
                         "endColumn": 94,
-                        "endOffset": 1337
+                        "endOffset": 1458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7973,
+                    "endColumn": 108,
+                    "endOffset": 8077
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\5c0efb28644824b8612b332819f29ae942b0b423\\output\\res\\values-ne-rNP\\location_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 108,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 8082,
+                    "endColumn": 92,
+                    "endOffset": 8170
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\5c0efb28644824b8612b332819f29ae942b0b423\\output\\res\\values-ne-rNP\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 92,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 8175,
+                    "endColumn": 85,
+                    "endOffset": 8256
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 85,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 8261,
+                    "endColumn": 100,
+                    "endOffset": 8357
+                },
+                "from": {
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2190,
+                        "endColumn": 100,
+                        "endOffset": 2286
                     }
                 }
             }

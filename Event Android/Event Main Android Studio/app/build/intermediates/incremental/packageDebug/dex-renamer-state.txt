@@ -1,7 +1,7 @@
-#Sat Dec 17 18:52:05 COT 2016
-base.0=C\:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d154ae9b01f348fc83c63477a03a27908cc42d86
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1c54c37b688acc23849235b3d62924a3aaf608c7\\classes.dex
-base.1=C\:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1c54c37b688acc23849235b3d62924a3aaf608c7
-file.0=C\:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d154ae9b01f348fc83c63477a03a27908cc42d86\\classes.dex
+#Mon Jan 09 13:11:29 COT 2017
+base.0=C\:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+base.1=C\:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=C\:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex

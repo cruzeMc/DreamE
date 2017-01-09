@@ -36,4 +36,9 @@
     <string name="success_login">Login was successful</string>
     <string name="fail_login">Email or password is incorrect</string>
     <string name="title_activity_register">RegisterActivity</string>
+    <string name="facebook_app_id">1805263609731402</string>
+    <string name="fb_login_protocol_scheme">fb1805263609731402</string>
+    <string name="register">Register</string>
+    <string name="network_error">Network error</string>
+    <string name="textview">TextView</string>
 </resources>

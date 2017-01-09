@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -9,17 +9,17 @@
                     "startOffset": 55,
                     "endLine": 6,
                     "endColumn": 13,
-                    "endOffset": 325
+                    "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Cruze\\Documents\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hdpi-v4\\values.xml",
+                    "file": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 282,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 552
+                        "endOffset": 327
                     }
                 }
             }
