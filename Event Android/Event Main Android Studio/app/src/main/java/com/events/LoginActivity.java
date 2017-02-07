@@ -10,7 +10,6 @@ import android.widget.Toast;
 
 import com.events.authentication.VerifyResponse;
 import com.events.custom.CustomActivity;
-import com.events.helper.CallbackWithRetry;
 import com.events.model.Login;
 import com.events.services.APIService;
 
@@ -26,11 +25,11 @@ public class LoginActivity extends CustomActivity implements View.OnClickListene
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        final Button login = (Button) findViewById(R.id.login);
-        final Button register = (Button) findViewById(R.id.register);
+        Button login = (Button) findViewById(R.id.login);
+//        final Button register = (Button) findViewById(R.id.register);
 
-        login.setOnClickListener(this);
 //        register.setOnClickListener(this);
+        login.setOnClickListener(this);
     }
 
     @Override
@@ -49,12 +48,12 @@ public class LoginActivity extends CustomActivity implements View.OnClickListene
                 TransmitData(user);
                 break;
 
-            case R.id.register:
-                // transition to RegisterActivity
-                Intent i = new Intent(LoginActivity.this, CategoryActivity.class);
-                i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                startActivity(i);
-                break;
+//            case R.id.register:
+//                // transition to RegisterActivity
+//                Intent i = new Intent(LoginActivity.this, MainActivity.class);
+//                i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+//                startActivity(i);
+//                break;
 
             default:
                 break;
@@ -88,6 +87,12 @@ public class LoginActivity extends CustomActivity implements View.OnClickListene
                         Toast toast = Toast.makeText(context, text, duration);
                         toast.show();
                     }
+                } else {
+                    Context context = getApplicationContext();
+                    CharSequence text = "Something went wrong";
+                    int duration = Toast.LENGTH_LONG;
+                    Toast toast = Toast.makeText(context, text, duration);
+                    toast.show();
                 }
             }
 
@@ -101,5 +106,10 @@ public class LoginActivity extends CustomActivity implements View.OnClickListene
                 toast.show();
             }
         });
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
     }
 }

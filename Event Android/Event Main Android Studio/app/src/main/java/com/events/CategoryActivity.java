@@ -1,6 +1,7 @@
 package com.events;
 
 import android.content.Context;
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -12,6 +13,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
 import com.events.custom.CustomActivity;
 
 import com.events.model.Category;
@@ -28,7 +30,8 @@ import retrofit2.Response;
 
 public class CategoryActivity extends CustomActivity {
     private ArrayList<Category> categoryArrayList = new ArrayList<>();
-    private static final String BASE_URL = "http://10.0.1.61:9876";
+    private static final String BASE_URL = "http://192.168.100.78:9876";
+    private final int deviceWidth = Resources.getSystem().getDisplayMetrics().widthPixels;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,9 +53,7 @@ public class CategoryActivity extends CustomActivity {
             public void onResponse(Call<List<Category>> call, Response<List<Category>> response) {
                 if(response.isSuccessful()){
                     if(response.body() != null){
-                        Log.i("CATEGORIES", response.body().toString());
                         List<Category> categories = response.body();
-                        Log.i("SIZE", ""+categories.size());
 
                         for(int i = 0; i< categories.size(); i++) {
                             int id = categories.get(i).getId();
@@ -63,7 +64,6 @@ public class CategoryActivity extends CustomActivity {
 
                             categoryArrayList.add(new Category(id, categoryName, image));
                         }
-                        Log.i("CATEGORIES", "Null");
                     } else {
                         Log.i("CATEGORIES", "Failed");
                     }
@@ -108,12 +108,19 @@ public class CategoryActivity extends CustomActivity {
 //            imageView.setImageResource(currentCategory.getId());
 
             //Get category image from server
-            Picasso.with(getApplicationContext())
+//            Picasso.with(getApplicationContext())
+//                    .load(BASE_URL + "/api/landing/image/" + currentCategory.getImage())
+//                    .placeholder(R.drawable.img1)
+//                    .error(R.drawable.img2)
+//                    .resize(621, 290)
+//                    .into(imageView);
+            Glide.with(getApplicationContext())
                     .load(BASE_URL + "/api/landing/image/" + currentCategory.getImage())
+                    .override(621, 290)
                     .placeholder(R.drawable.img1)
-                    .error(R.drawable.img2)
-                    .resize(621, 290)
                     .into(imageView);
+
+            Log.i("WIDTH:", ""+deviceWidth);
 
             //Fill the text view
             TextView textView = (TextView) itemView.findViewById(R.id.categoryNameView);

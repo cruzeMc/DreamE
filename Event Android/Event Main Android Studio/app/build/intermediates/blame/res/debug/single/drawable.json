@@ -1,11 +1,11 @@
 [
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
@@ -21,31 +21,15 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_button_background.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
@@ -64,44 +48,36 @@
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_button_like_background.xml"
-    },
-    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
@@ -109,7 +85,7 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
@@ -120,12 +96,8 @@
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_button_send_background.xml"
-    },
-    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
@@ -133,11 +105,7 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
@@ -152,24 +120,12 @@
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
-    },
-    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
@@ -177,43 +133,43 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_vector_test.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
@@ -221,7 +177,7 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
@@ -232,16 +188,12 @@
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_button_icon.xml"
-    },
-    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
@@ -253,7 +205,7 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
@@ -261,11 +213,7 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
@@ -273,30 +221,26 @@
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\2b184b22061bacc4156c60ea1041632e3422e8f3\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\0bc6886348feec39cf4238c83bfea66cd334dbe2\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\drawable\\abc_edit_text_material.xml"
     }
 ]

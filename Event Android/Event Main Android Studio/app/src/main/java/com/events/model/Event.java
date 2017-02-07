@@ -4,8 +4,7 @@ package com.events.model;
  * The Class Event is a simple Java Bean that is used to hold data related to an
  * Event like title, date etc.
  */
-public class Event
-{
+public class Event {
 
 	/** The title. */
 	private String title;
@@ -36,9 +35,7 @@ public class Event
 	 * @param image
 	 *            the image
 	 */
-	public Event(String title, String date, String time, String location,
-			int image)
-	{
+	public Event(String title, String date, String time, String location, int image) {
 		this.date = date;
 		this.title = title;
 		this.time = time;

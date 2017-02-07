@@ -4,12 +4,16 @@
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\tab_bg_sel.png"
     },
     {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_comment.png",
-        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_comment.png"
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\social.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\social.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\switch_bg_on.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\switch_bg_on.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_comment.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_comment.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\feed11.png",
@@ -18,6 +22,10 @@
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_nav1_sel.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_nav1_sel.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\education.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\education.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\img_event2.png",
@@ -68,6 +76,10 @@
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_locate.png"
     },
     {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\parties.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\parties.png"
+    },
+    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ticket_bg2.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ticket_bg2.png"
     },
@@ -78,6 +90,10 @@
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_share.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\corporate.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\corporate.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\icon.png",
@@ -100,6 +116,14 @@
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_nav1.png"
     },
     {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\cultural.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\cultural.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\food.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\food.png"
+    },
+    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_nav4.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_nav4.png"
     },
@@ -114,6 +138,10 @@
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\feed12.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\feed12.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\charity.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\charity.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\arrow_left.png",
@@ -134,6 +162,10 @@
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\switch_bg_off.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\switch_bg_off.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\sports.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\sports.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_nav2.png",
@@ -180,6 +212,10 @@
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\reg_btn_bg.png"
     },
     {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\religious.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\religious.png"
+    },
+    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\ic_tw.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\ic_tw.png"
     },
@@ -198,6 +234,10 @@
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\img2.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\img2.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\categories.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-large-hdpi\\categories.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-hdpi\\tab_bg.png",

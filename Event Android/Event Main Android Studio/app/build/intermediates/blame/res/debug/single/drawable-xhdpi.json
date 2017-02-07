@@ -232,6 +232,10 @@
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\ic_nav4_sel.png"
     },
     {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_name.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_bg.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\tab_bg.png"
     },
@@ -488,12 +492,12 @@
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\feed1.png",
         "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-xhdpi\\feed1.png"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\drawable-xhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_light.png",

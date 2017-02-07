@@ -22,7 +22,4 @@ public interface APIService {
 
     @POST("/api/login")
     Call<VerifyResponse> postLogin(@Body Login login);
-
-    @GET("/api/landing/image/")
-    Call<CategoryImage> getImage(@Body CategoryImage categoryImage);
 }

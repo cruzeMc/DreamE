@@ -240,6 +240,10 @@
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\0b224c699a9f76a028fee41a399957dc9eacfe84\\output\\res\\drawable-mdpi\\ic_play_dark.png"
     },
     {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
         "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
         "source": "C:\\Users\\Cruze\\.android\\build-cache\\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\\output\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
     },

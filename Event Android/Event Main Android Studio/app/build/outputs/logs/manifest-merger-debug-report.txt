@@ -27,6 +27,9 @@ MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Cruze
 MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Cruze\.android\build-cache\353178d723475571994e723264b79e8e5584a457\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Cruze\.android\build-cache\0b224c699a9f76a028fee41a399957dc9eacfe84\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\de4b1d580abf62a99cf3030d4cf14a64d5b63973\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\aae7dd76552871ace9e94c378e9073aa9449ecb8\output\AndroidManifest.xml:21:5-43
 MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Cruze\.android\build-cache\c44569dce48a01780027c69ef69f26b4cb7e79aa\output\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Cruze\.android\build-cache\e28ae07a503172d103566477cf1fda5e05bd5b24\output\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Cruze\.android\build-cache\ebb2326fc9ab56b9668444cbf5dab3a0eb348655\output\AndroidManifest.xml:18:5-42
@@ -44,20 +47,14 @@ MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.an
 MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Cruze\.android\build-cache\0b82772322b63768725255348f1256febc1fb728\output\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Cruze\.android\build-cache\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\output\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Cruze\.android\build-cache\f64516a3f99e8889aaf25cab10e66cd34848e298\output\AndroidManifest.xml:18:5-42
-MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Cruze\.android\build-cache\0bc6886348feec39cf4238c83bfea66cd334dbe2\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Cruze\.android\build-cache\1ecc3b20bcf30b891511bc309ea1f173cbd65be1\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Cruze\.android\build-cache\1e44a9a580c0b387bf7365635334a02ef01f78fb\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Cruze\.android\build-cache\13e167b66c887c08cdd4e48e1897e76ad10fb411\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Cruze\.android\build-cache\fd133484c0a9fe78e509717e3b75a7a4a68e17ff\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Cruze\.android\build-cache\3cf144735ed9570401d78edeb7940786825c3714\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Cruze\.android\build-cache\d92d8edcf3a282cb575b6602a4e0fb20e5b459f7\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Cruze\.android\build-cache\6154be8c74f16a79d562eeac7207843eea37191c\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Cruze\.android\build-cache\92dbd3993b92ef5aec17f2cf04cb9253a4d0764b\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Cruze\.android\build-cache\071880d7c171fb1f16161cd33f6082f071662901\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Cruze\.android\build-cache\4c09383794ae9884bce81fa1cbaa91fbc1a05385\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Cruze\.android\build-cache\0bc6886348feec39cf4238c83bfea66cd334dbe2\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
@@ -133,6 +130,9 @@ MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Cruze
 MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:20:5-32:19
 MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Cruze\.android\build-cache\353178d723475571994e723264b79e8e5584a457\output\AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Cruze\.android\build-cache\0b224c699a9f76a028fee41a399957dc9eacfe84\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\de4b1d580abf62a99cf3030d4cf14a64d5b63973\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\aae7dd76552871ace9e94c378e9073aa9449ecb8\output\AndroidManifest.xml:23:5-20
 MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Cruze\.android\build-cache\c44569dce48a01780027c69ef69f26b4cb7e79aa\output\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Cruze\.android\build-cache\e28ae07a503172d103566477cf1fda5e05bd5b24\output\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Cruze\.android\build-cache\ebb2326fc9ab56b9668444cbf5dab3a0eb348655\output\AndroidManifest.xml:19:5-20
@@ -148,17 +148,11 @@ MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Cruze
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Cruze\.android\build-cache\0b82772322b63768725255348f1256febc1fb728\output\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Cruze\.android\build-cache\f64516a3f99e8889aaf25cab10e66cd34848e298\output\AndroidManifest.xml:20:5-24:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:28:5-38:19
-MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Cruze\.android\build-cache\0bc6886348feec39cf4238c83bfea66cd334dbe2\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Cruze\.android\build-cache\1ecc3b20bcf30b891511bc309ea1f173cbd65be1\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Cruze\.android\build-cache\1e44a9a580c0b387bf7365635334a02ef01f78fb\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Cruze\.android\build-cache\13e167b66c887c08cdd4e48e1897e76ad10fb411\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Cruze\.android\build-cache\fd133484c0a9fe78e509717e3b75a7a4a68e17ff\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Cruze\.android\build-cache\3cf144735ed9570401d78edeb7940786825c3714\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Cruze\.android\build-cache\d92d8edcf3a282cb575b6602a4e0fb20e5b459f7\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Cruze\.android\build-cache\6154be8c74f16a79d562eeac7207843eea37191c\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Cruze\.android\build-cache\92dbd3993b92ef5aec17f2cf04cb9253a4d0764b\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Cruze\.android\build-cache\071880d7c171fb1f16161cd33f6082f071662901\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Cruze\.android\build-cache\4c09383794ae9884bce81fa1cbaa91fbc1a05385\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:33:9-41
@@ -257,7 +251,6 @@ ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\s
 		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:76:13-45
 activity#com.facebook.CustomTabActivity
 ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:80:9-89:20
-MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:33:9-36:20
 	android:exported
 		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:82:13-36
 	android:name
@@ -362,15 +355,3 @@ ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cru
 		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:44:11-35
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:42:11-82
-activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:29:9-32:66
-	android:configChanges
-		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:31:13-96
-	android:theme
-		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:32:13-63
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:30:13-57
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:37:9-71
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Cruze\.android\build-cache\2b184b22061bacc4156c60ea1041632e3422e8f3\output\AndroidManifest.xml:37:19-68
